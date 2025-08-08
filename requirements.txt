@@ -12,3 +12,4 @@ joblib
 mlflow
 statsmodels
 xgboost
+flask
